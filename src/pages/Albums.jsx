@@ -1,7 +1,7 @@
 function Albums(){
     return(
         <>
-            <div>Albums</div>
+            <div className={"card"}>Albums</div>
         </>
     )
 }
